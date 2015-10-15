@@ -1,7 +1,9 @@
 
 
 Function  RandSelectWebList(myWebList)
+
     itemCount = myWebList.GetROProperty("items count")
+	
     myIndex = randomNumber(0, itemCount - 1) 
         myWebList.Select "#" & myIndex
 End Function
