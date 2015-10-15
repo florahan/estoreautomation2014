@@ -1,1 +1,1 @@
-## this is e-store project.
+## this is flora's e-store project.
